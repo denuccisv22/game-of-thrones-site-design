@@ -1,0 +1,82 @@
+@charset "UTF-8";
+
+#background{
+height: auto;
+background-color: black;
+background-image: url(images/theWall.png);
+z-index: 0;
+margin-left: auto;
+margin-right: auto;
+width: 90%;
+padding-bottom: 1%;
+}
+
+#oath{
+border: 5px solid white;
+margin-left: 40px;
+margin-top: 1%;
+margin-right: 40px;
+padding: 10px;
+height: 300px;
+color: white;
+font-family: 'Cute Font', cursive;
+font-size: 34px;
+word-wrap: break-word;
+letter-spacing: 0.02em;
+word-spacing: 0.030em;
+overflow: hidden;
+background-color: black;
+box-shadow: 5px 5px 10px black;
+}
+
+#title{
+text-align: center;
+font-family: 'Cute Font', cursive;
+background-color: black;
+z-index: 1;
+color: white;
+border: 20px solid transparent;
+border-image: url(images/ravens.jpg) 250 round;
+}
+
+#videoOne{
+margin-top: 1%;
+margin-left: 27%;
+margin-right: auto;
+}
+
+.carousel {
+position: relative;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+width: 80%;
+}
+
+.embed-responsive{
+width: 60%;
+margin-top: 10px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.jumbotron{
+border: 5px solid white;
+margin-left: auto;
+margin-top: 10px;
+margin-right: auto;
+width: 80%;
+padding: 10px;
+color: white;
+font-family: 'Cute Font', cursive;
+background-color: black;
+box-shadow: 5px 5px 10px black;
+}
+
+.lead{
+font-size: 34px;
+}
+
+.navbar{
+background-color: rgba(0,0,0,.9) !important;
+}

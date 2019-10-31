@@ -1,0 +1,2 @@
+Open the index in a browser. This is the home page which contains a navbar linking to the other project pages. All of the pages have this navbar,
+so you can navigate to any of the pages by simply clicking on the link in the navbar.
